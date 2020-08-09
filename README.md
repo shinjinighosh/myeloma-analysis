@@ -1,2 +1,2 @@
 # myeloma-analysis
-Analysis of SEER Myeloma Dataset
+Analysis of Myeloma Dataset
